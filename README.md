@@ -44,16 +44,16 @@ We report and discuss on the **held-out test set**:
 
 ```txt
 python-dateutil==2.9.0.post0
-numpy==1.26.4
-pandas==2.2.2
-scikit-learn==1.5.1
-scipy==1.13.1
-matplotlib==3.9.0
+numpy==2.1.3
+pandas==2.2.3
+scikit-learn==1.6.1 
+scipy==1.15.3  
+matplotlib==3.10.0   
 seaborn==0.13.2
-tensorflow==2.16.1
-keras==3.3.3
-shap==0.45.1
-jupyterlab==4.2.3
+tensorflow==2.20.0
+keras==3.11.3 
+shap==0.48.0
+jupyterlab==4.3.4  
 ipykernel==6.29.5
 ```
 
